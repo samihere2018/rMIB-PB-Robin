@@ -1,2 +1,2 @@
 # rMIB-PB-Robin
-rMIB PB solver with Robin boundary condition
+rMIB PB solver with Robin boundary condition (RBC)
